@@ -45,9 +45,9 @@ INACTIVITY_TIMEOUT = 60
 EMAIL_ENABLED = True
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_ADDRESS = "ahmadk0306@gmail.com"
-EMAIL_PASSWORD = "nnmc boju mmpt omqd"
-EMERGENCY_CONTACTS = ["ahmadk0306@gmail.com", ""]
+EMAIL_ADDRESS = "Your email ID"
+EMAIL_PASSWORD = "passcode"
+EMERGENCY_CONTACTS = ["Your email ID", "Your email ID #2"]
 
 # Camera monitoring configuration
 CAMERA_ENABLED = True
@@ -1064,4 +1064,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Main error: {e}")
         release_camera()
+
         save_daily_log()
