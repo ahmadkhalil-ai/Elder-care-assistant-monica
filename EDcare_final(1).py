@@ -46,7 +46,7 @@ EMAIL_ENABLED = True
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_ADDRESS = "Your email ID"
-EMAIL_PASSWORD = "passcode"
+EMAIL_PASSWORD = "your-app-password"
 EMERGENCY_CONTACTS = ["Your email ID", "Your email ID #2"]
 
 # Camera monitoring configuration
@@ -1066,3 +1066,4 @@ if __name__ == "__main__":
         release_camera()
 
         save_daily_log()
+
