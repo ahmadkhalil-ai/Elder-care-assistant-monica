@@ -1,9 +1,6 @@
 # Elder-care-assistant-monica
 
 # Monica - AI-Powered Elder Care Assistant
-https://img.shields.io/badge/Python-3.7+-blue.svg
-https://img.shields.io/badge/OpenCV-4.0+-green.svg
-https://img.shields.io/badge/MediaPipe-0.10+-orange.svg
 
 # Monica is an advanced AI-powered elder care assistant that combines voice interaction, computer vision, and intelligent monitoring to provide comprehensive care and companionship for elderly individuals.
 
